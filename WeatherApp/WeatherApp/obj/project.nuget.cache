@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3M1MsC55Xm4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivans\\RiderProjects\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivans\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
